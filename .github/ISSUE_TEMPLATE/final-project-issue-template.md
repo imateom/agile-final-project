@@ -1,5 +1,5 @@
 ---
-name: Final Project issue template
+name: user-story
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
